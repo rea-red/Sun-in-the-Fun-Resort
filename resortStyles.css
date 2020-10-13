@@ -1,0 +1,32 @@
+/*Style for all elements*/
+*{
+	color: navy;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+/*Style for element with id, pageTitle*/
+#pageTitle{
+    text-align: center;
+	height: 100px;
+}
+/*Style for all h1 and h3 elements*/
+h1, h3{
+    border: 2px solid orange;
+}
+/*Style for element with class, boldMe*/
+.boldMe{
+    font-weight: bold;
+}
+img {
+  border: 5px solid darkgreen;
+}
+
+.button {
+  background-color: ivory;
+}
+
+li {
+	color: brown;
+}
+li2 {
+	color: blue;
+}
